@@ -1,0 +1,27 @@
+.btn{
+   background-color: burlywood;
+   border: 3px dashed rgb(128, 0, 255);
+   color: black;
+   font-size: 20px;
+   margin-left: 20px;
+}
+.btn:hover{
+    color:rgba(73, 62, 49, 0.685);
+    
+}
+#abc{
+    color: rgba(73, 62, 49, 0.685);
+    font-size: 40px;
+    text-align: center;
+}
+.back{
+    background-color:rgba(239, 235, 235, 0.835);
+}
+.form-label{
+    font-size: 20px;
+    font-weight:bold
+}
+.gender{
+    font-size: 20px;
+    font-weight:200
+}
